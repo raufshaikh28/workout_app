@@ -11,6 +11,7 @@ Each exercise will have Video showing pose of it with information
 User can also see Diet Plans, Body Progress
 
 
+Project Video:
 
 
 This project is a starting point for a Flutter application.
