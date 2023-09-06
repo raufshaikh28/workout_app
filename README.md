@@ -4,6 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
+Technology Stack : Flutter | Dart | Firebase 
+User can proceed with name ,Email ID and Password
+User will be able to select a categories of diffrents Exercise
+Each exercise will have Video showing pose of it with information 
+User can also see Diet Plans, Body Progress
+
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
